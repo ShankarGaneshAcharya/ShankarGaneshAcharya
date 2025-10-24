@@ -1,5 +1,7 @@
 # I'm Shankar Ganesh 👋
 
+![Github Banner](Github Banner.jpg)
+
 <!--
 **ShankarGaneshAcharya/ShankarGaneshAcharya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
