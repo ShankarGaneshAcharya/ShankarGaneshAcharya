@@ -13,7 +13,7 @@ I'm **Shankar Ganesh**, a software engineer based in 🇮🇳 India, currently d
 - 🗺️ I am based in India  
 - 🔭 I am currently working on personal projects  
 - 🌱 I am currently learning new technologies and sharpening my skills behind the scenes  
-- 😄 Prohouns : **He/Him/His.**
+- 😄 Pronouns : **He/Him/His.**
 - ⚡ Fun fact : GitHub’s mascot, the Octocat, has five arms—not eight! It’s a whimsical blend of cat and octopus, originally designed by graphic artist Simon Oxley.
 ---
 
