@@ -10,7 +10,7 @@ I'm **Shankar Ganesh**, a software engineer based in 🇮🇳 India, currently d
 
 ### 🧠 About Me
 
-<img src="/giphy.gif" alt="giphy image" style="float:right">
+<a><img style="float:right" src="/giphy.gif" alt="giphy image" ></a>
 
 <!-- <a><img align="right" src="/giphy.gif"/></a> -->
 
