@@ -33,5 +33,3 @@ I'm **Shankar Ganesh**, a software engineer based in 🇮🇳 India, currently d
 [![Made in India](https://img.shields.io/badge/Made%20in-India-orange?style=for-the-badge)](https://github.com/ShankarGaneshAcharya)  
 [![Uses Biome](https://img.shields.io/badge/Formatter-Biome-blueviolet?style=for-the-badge)](https://github.com/ShankarGaneshAcharya)  
 [![README Powered by Humor](https://img.shields.io/badge/README%20Powered%20by-Humor-yellow?style=for-the-badge)](https://github.com/ShankarGaneshAcharya)
-
----
