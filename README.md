@@ -28,9 +28,7 @@ I'm **Shankar Ganesh**, a software engineer based in 🇮🇳 India, currently d
 - Master advanced ServiceNow scripting and scalable validation workflows
 - Refine professional communication for client and team coordination
 
----
-
-## 🧪 Fun with Badges
+### 🧪 Fun with Badges
 
 [![Made in India](https://img.shields.io/badge/Made%20in-India-orange?style=for-the-badge)](https://github.com/ShankarGaneshAcharya)  
 [![Uses Biome](https://img.shields.io/badge/Formatter-Biome-blueviolet?style=for-the-badge)](https://github.com/ShankarGaneshAcharya)  
