@@ -2,6 +2,8 @@
 
 ![Github Banner](https://ik.imagekit.io/6xkr82yfqw/Github%20Profile/Github%20Banner_LgKYxTnY4.jpg?updatedAt=1761311323549 "Github Banner")
 
+![Github Banner](/github-banner.jpg "Github Banner")
+
 ## 👋 Hello there!
 
 I'm **Shankar Ganesh**, a software engineer based in 🇮🇳 India, currently diving deep into personal projects and sharpening my tech stack behind the scenes.
