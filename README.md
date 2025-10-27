@@ -1,7 +1,5 @@
 # I'm Shankar Ganesh 👋
 
-![Github Banner](https://ik.imagekit.io/6xkr82yfqw/Github%20Profile/Github%20Banner_LgKYxTnY4.jpg?updatedAt=1761311323549 "Github Banner")
-
 ![Github Banner](/github-banner.jpg "Github Banner")
 
 ## 👋 Hello there!
@@ -12,7 +10,9 @@ I'm **Shankar Ganesh**, a software engineer based in 🇮🇳 India, currently d
 
 ### 🧠 About Me
 
-<a><img align="right" src="/giphy.gif" /></a>
+<a href="#">
+  <img src="/giphy.gif" alt="Placeholder image" style="float: right;" />
+</a>
 
 - 🗺️ I am based in India
 - 🔭 I am currently working on personal projects
@@ -43,5 +43,3 @@ I'm **Shankar Ganesh**, a software engineer based in 🇮🇳 India, currently d
 [![README Powered by Humor](https://img.shields.io/badge/README%20Powered%20by-Humor-yellow?style=for-the-badge)](https://github.com/ShankarGaneshAcharya)
 
 ---
-
-![Working Man](/giphy.gif "Working Man")
