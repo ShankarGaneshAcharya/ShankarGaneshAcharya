@@ -40,4 +40,4 @@ I'm **Shankar Ganesh**, a software engineer based in 🇮🇳 India, currently d
 
 ---
 
-![Working Man](giphy.gif "Working Man")
+![Working Man](/giphy.gif "Working Man")
