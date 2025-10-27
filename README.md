@@ -23,9 +23,7 @@ I'm **Shankar Ganesh**, a software engineer based in 🇮🇳 India, currently d
 - 🧩 ServiceNow wizardry: catalog items, widgets, scripting, and environment migrations
 - 📚 Documentation devotee: clear, concise, and client-ready
 
----
-
-## 📈 Current Goals
+### 📈 Current Goals
 
 - Master advanced ServiceNow scripting and scalable validation workflows
 - Refine professional communication for client and team coordination
