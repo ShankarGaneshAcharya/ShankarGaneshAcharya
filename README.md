@@ -8,7 +8,7 @@ I'm **Shankar Ganesh**, a software engineer based in 🇮🇳 India, currently d
 
 ---
 
-### 🧠 About Me
+## 🧠 About Me
 
 <a><img align="right" src="/giphy.gif"/></a>
 
@@ -18,23 +18,21 @@ I'm **Shankar Ganesh**, a software engineer based in 🇮🇳 India, currently d
 - 😄 Pronouns : **He/Him/His.**
 - ⚡ Fun fact : GitHub’s mascot, the Octocat, has five arms—not eight! It’s a whimsical blend of cat and octopus, originally designed by graphic artist Simon Oxley.
 
----
-
-### 🛠️ Tech Playground
+## 🛠️ Tech Playground
 
 - 🧩 ServiceNow wizardry: catalog items, widgets, scripting, and environment migrations
 - 📚 Documentation devotee: clear, concise, and client-ready
 
 ---
 
-### 📈 Current Goals
+## 📈 Current Goals
 
 - Master advanced ServiceNow scripting and scalable validation workflows
 - Refine professional communication for client and team coordination
 
 ---
 
-### 🧪 Fun with Badges
+## 🧪 Fun with Badges
 
 [![Made in India](https://img.shields.io/badge/Made%20in-India-orange?style=for-the-badge)](https://github.com/ShankarGaneshAcharya)  
 [![Uses Biome](https://img.shields.io/badge/Formatter-Biome-blueviolet?style=for-the-badge)](https://github.com/ShankarGaneshAcharya)  
